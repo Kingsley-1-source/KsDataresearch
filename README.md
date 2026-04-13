@@ -1,1 +1,22 @@
 kingsley-data-research-hub
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kingsley Data Solutions</title>
+</head>
+<body>
+  <h1>Kingsley Data Solutions</h1>
+
+  <p>We provide web data collection and market research services.</p>
+
+  <h3>Services</h3>
+  <ul>
+    <li>Data Collection</li>
+    <li>Market Research</li>
+    <li>Data Analysis</li>
+  </ul>
+
+  <h3>Contact</h3>
+  <p>Email: kingsleydata@gmail.com</p>
+</body>
+</html>
